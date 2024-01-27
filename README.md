@@ -39,7 +39,7 @@ categories outlined in the NTSB AVIATION OCCURRENCE CATEGORIES document.
 Licensed under the Apache License 2.0. For more details, visit https://www.apache.org/licenses/LICENSE-2.0.html.
 
 
-### 2. NTSB_reports_visualisation_and_map_V1.0.py
+### 2. NTSB_reports_visualisation_and_map_V1.1.py
 
 #### Purpose
 Analyzes UAV accident data from the NTSB, presenting it in various graphical formats and an interactive map.
@@ -67,8 +67,8 @@ Analyzes UAV accident data from the NTSB, presenting it in various graphical for
 #### Author Information
 - Author: Eugene Pik
 - Contact: LinkedIn https://www.linkedin.com/in/eugene/
-- Date: January 9, 2024
-- Version: 1.0
+- Date: January 27, 2024
+- Version: 1.1
 
 #### License
 Licensed under the Apache License 2.0. For more details, visit https://www.apache.org/licenses/LICENSE-2.0.html.
